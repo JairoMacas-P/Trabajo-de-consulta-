@@ -6,9 +6,9 @@ El proyecto aproxima varias integrales definidas y calcula el error comparando l
 ## Contenido del repositorio
 
 - Código fuente en la carpeta **src/**
-- Función de integración usando el método de Simpson 1/3
-- Función para calcular el error
-- Pruebas de las integrales solicitadas
+    - Función de integración usando el método de Simpson 1/3
+    - Función para calcular el error
+    - Pruebas de las integrales solicitadas
 
 ## Documentación
 
